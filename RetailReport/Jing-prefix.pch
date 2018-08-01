@@ -1,0 +1,44 @@
+//
+//  Jing-prefix.pch
+//  RetailReport
+//
+//  Created by fnspl3 on 23/11/17.
+//  Copyright © 2017 fnspl3. All rights reserved.
+//
+
+#ifndef Jing_prefix_pch
+#define Jing_prefix_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <MapKit/MapKit.h>
+#import <CoreMotion/CoreMotion.h>
+#import "UIView+Additions.h"
+#import <CoreBluetooth/CoreBluetooth.h>
+#import <CoreLocation/CoreLocation.h>
+#import <QuartzCore/QuartzCore.h>
+#import <AVFoundation/AVFoundation.h>
+#import "APIManager.h"
+//#import "MenuTableViewController.h"
+#import "JScrollView+PageControl+AutoScroll.h"
+//#import "KYDrawerController.h"
+
+//#import "UIView+Toast.h"
+#import "AppDelegate.h"
+#import "ViewController.h"
+#import "Constants.h"
+#import <AVFoundation/AVFoundation.h>
+#import <MessageUI/MessageUI.h>
+#import <EventKit/EventKit.h>
+#import "UIColor+HexString.h"
+#import <Contacts/Contacts.h>
+#import <ContactsUI/ContactsUI.h>
+#import "SVProgressHUD.h"
+#import "Database.h"
+#import "Utils.h"
+#import "Reachability.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Jing_prefix_pch */
